@@ -19,7 +19,6 @@ googleAnalytics         = "G-0CS8JKDMHZ"
     favicon             = "images/OS_WG.jpg"
     homepage            = "home"                           # What to call the home page link
     footerText          = ""
-  #  companylogo         = "images/MaxPlanckPhDnet_logo_square_FINAL.jpg"
     companylogo         = "images/PhDnet_OS_logo.jpg"
     logoheight          = "80px"
     companysite         = "https://www.phdnet.mpg.de/home"
